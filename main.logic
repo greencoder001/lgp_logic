@@ -1,1 +1,3 @@
 // LOGIC_NOTE__NO_LOGIC_IMPORT
+zone js webjs application web html htm:
+  console.log('JSBASED')
