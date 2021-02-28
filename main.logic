@@ -1,4 +1,2 @@
-// LOGIC_NOTE__NO_LOGIC_IMPORT
-zone js webjs application web html htm:
-  import MultiClassJS
-  print('JSBASED')
+import cli
+var ERR_EXIT_CODE = 1
